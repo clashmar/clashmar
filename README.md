@@ -1,7 +1,7 @@
 ## Hello there! 👋
 
 - 🧑‍💻 I'm a full-stack software developer who loves problem solving.
-- 📝 I specialise in C# and .NET, with a strong understanding of OOP principles.
+- 📝 I specialise in C# and .NET, with a strong understanding of OOP.
 - 🏫 Currently learning Python and React. 
 - 💬 Ask me about anything on my profile!
 
