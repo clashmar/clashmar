@@ -2,7 +2,7 @@
 
 - 🧑‍💻 I'm a full-stack software developer who loves problem solving.
 - 📝 I specialise in C# and .NET, with a strong understanding of OOP.
-- 🏫 Currently learning Python and React. 
+- 🏫 Currently learning Python, C and React. 
 - 💬 Ask me about anything on my profile!
 
 ## Skills
