@@ -6,4 +6,4 @@
 - 💬 Ask me about anything on my profile!
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,js,rails,html,css,git,sqlite,unity,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,js,ts,django,rails,react,html,css,git,postgres,sqlite,,docker,powershell,unity,vscode,visualstudio)](https://skillicons.dev)
