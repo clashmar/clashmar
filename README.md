@@ -1,8 +1,8 @@
 ## Hello there! 👋
 
-- 🧑‍💻 I'm a full-stack software developer who loves problem solving.
-- 📝 I specialise in C# and .NET, with a strong understanding of OOP.
-- 🏫 Currently learning Python, C and React. 
+- 🧑‍💻 Full-stack software developer based in The Netherlands
+- 📝 I specialise in C# and .NET, especially MAUI apps
+- 🏫 Currently becoming a Python master
 - 💬 Ask me about anything on my profile!
 
 ## Skills
