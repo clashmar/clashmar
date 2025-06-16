@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Full-stack software developer based in The Netherlands
 - 📝 I specialise in C# and .NET, especially MAUI apps
-- 🏫 Currently becoming a Python master
+- 🏫 Currently becoming a Rust master
 - 💬 Ask me about anything on my profile!
 
 ## Skills
